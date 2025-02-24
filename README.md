@@ -6,6 +6,8 @@ This repository contains the implementation of a Context Polarity-based Text Cla
 Both datasets are sourced from Kaggle and preprocessed for polarity-based analysis.
 The description for each file in the repository is as follows:
 
+Text Classification - Academic Paper.pdf: Academic paper on the results of the whole project.
+
 Hotel_data.csv: Dataset for sentiment analysis   
 negativewords.txt: List of words with negative polarity   
 positivewords.txt: List of words with positive polarity   
